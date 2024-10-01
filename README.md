@@ -1,5 +1,5 @@
 
-# README for the Project Plan Implementation
+# README
 
 ## Overview
 This project demonstrates a binary classification task, predicting whether an individual is likely to be a homeowner based on various features like income, age, and workclass. The notebook carries out the following steps:
